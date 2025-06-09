@@ -3,15 +3,14 @@
 Welcome to my GitHub repository! I'm Nilesh Yadav, a dedicated software developer with a strong background in computer science. Here's an overview of my skills, education, experience, and projects.
 
 ## Personal Information
-- **Email**: shailesh.y12340@gmail.com
-- **Mobile**: +91-9316483520
+- **Email**: nilesh.y@shaligraminfotech.com
 - **GitHub**: [GitHub Profile](https://github.com/nil-01)
 - **Location**: India, Gujarat
 
 ## Education
 **Gujarat Technological University Ahmedabad, India**
 - Bachelor in Computer Science and Engineering
-- GPA: 3.65
+- GPA: 3.65/4
 - Aug 2019 - Jun 2023
 - Relevant Courses: Java, Operating Systems, Data Structure and Algorithm, DBMS, Computer Network, Analysis and Design of Algorithms, Python for Data Science, Artificial Intelligence, Machine Learning.
 
@@ -65,4 +64,3 @@ Welcome to my GitHub repository! I'm Nilesh Yadav, a dedicated software develope
 - Certificate of Appreciation by Devtown for Community Support.
 - Selected as Best Teacher Award by St. Xavier’s High School Surat, 2017.
 
-Feel free to explore my projects, and don't hesitate to reach out for collaboration or discussions!
